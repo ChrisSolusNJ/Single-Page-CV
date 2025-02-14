@@ -5,4 +5,6 @@ A slight style is given by applying CSS to improve the way it is displayed a lit
 
 ![image-preview-cv](image.png)
 
+This project is part of a series of projects to improve web development skills, you can find the project description at [Roadmanp Projects](https://roadmap.sh/projects/single-page-cv)
+
 Thanks for watching!
